@@ -1,0 +1,12 @@
+JAVA
+====
+Simple-> Syntax is similar to c and cpp , java does not have confuision natured features like pointers
+Object Oriented
+Multi-threaded
+Dynamic -> primitive type gets memory during runtime . 
+Compiled as well as Interpreted
+Robust->java puts a lot of emphasis on early checking for possible problems / language is said to be robust if it has a good memory management
+Portable
+Archittectural Neutral , Platform independent
+Secured
+Distributed
